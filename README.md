@@ -1,3 +1,1 @@
-# Machine-Learning
-
-Naive Bayes
+# Machine-Learning Models
